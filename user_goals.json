@@ -1,0 +1,59 @@
+[
+    {
+        "goal": "Learn DSA",
+        "keywords": [
+            "data",
+            "strustures",
+            "algorithms",
+            "geeks for geeks",
+            "leetcode",
+            "cpp",
+            "arrays",
+            "linked list",
+            "queue",
+            "graphs",
+            "sorting",
+            "code help",
+            "searching",
+            "vs code"
+        ]
+    },
+    {
+        "goal": "Learn ML",
+        "keywords": [
+            "machine",
+            "learning",
+            "algorithm",
+            "google",
+            "colab",
+            "kaggle",
+            "gradient",
+            "descent",
+            "regression",
+            "VS code",
+            "ML"
+        ]
+    },
+    {
+        "goal": "DP Research Paper",
+        "keywords": [
+            "word",
+            "introduction",
+            "Google docs",
+            "Microsoft word",
+            "methodology",
+            "deepseek",
+            "chatgpt",
+            "Microsoft Edge"
+        ]
+    },
+    {
+        "goal": "Study Python",
+        "keywords": [
+            "python",
+            "pandas",
+            "re",
+            "etc"
+        ]
+    }
+]
